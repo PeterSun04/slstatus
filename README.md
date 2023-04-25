@@ -1,2 +1,2 @@
 # slstatus
-My slstatus setupp
+My slstatus setup
